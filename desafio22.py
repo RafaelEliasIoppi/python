@@ -1,0 +1,7 @@
+nome = str(input('Digite o nome completo: ')).strip()
+print('Todas as letras maísculas: {}'.format(nome.upper()))
+print('Todas as letras minusculas: {}'.format(nome.lower()))
+print('Retorna o tamanho do nome sem espaços -->> {}'.format(len(nome)-nome.count(' ')))
+lista = nome.split()
+print('Cria uma lista, separando o nome: {}'.format(lista))
+print('Mostra a primeira palavra da lista: {} tem {} letras'.format(lista[0], len(lista[0])))
