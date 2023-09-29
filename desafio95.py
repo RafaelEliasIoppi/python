@@ -1,4 +1,4 @@
-lista = {}
+rafaelista = {}
 gols = []
 listao = []
 while True:
