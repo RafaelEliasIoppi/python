@@ -7,4 +7,4 @@ Seja bem-vindo ao repositório definitivo! Aqui você encontra todas as soluçõ
 
 🌍 Quer aprender Python na prática? Este repositório é seu guia! Explore, modifique e contribua para aprimorar ainda mais o conteúdo.
 
-💡 Vamos codar? Acesse o repositório e comece sua jornada Python! 🐍🔥
+
