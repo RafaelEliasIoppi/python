@@ -1,4 +1,4 @@
-# python
+# Python
 🔥 Repositório de Resolução dos Desafios Python – Curso em Vídeo 🚀
 
 Seja bem-vindo ao repositório definitivo! Aqui você encontra todas as soluções para os desafios de Python do Curso em Vídeo, organizadas de forma clara, eficiente e didática.
